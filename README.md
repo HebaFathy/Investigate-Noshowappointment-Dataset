@@ -17,11 +17,11 @@ Another example, the demographics such as neighbourhood could have a huge impact
 
 
 Statistical Analysis is done by:
-Data Wrangling
-Exploratory Data Analysis
-Examination of central tendency and spread
+Data Wrangling, 
+Exploratory Data Analysis, 
 Data visualization
 
 Tools
 Python Jupyter Notebook
-libraries: numpy, pandas, matplotlib, seaborn
+
+Libraries: numpy, pandas, matplotlib, seaborn
