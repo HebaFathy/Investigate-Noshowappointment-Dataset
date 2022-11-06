@@ -2,7 +2,7 @@
 The noshow appointment dataset contains information of many appointments. The dataset was originally sourced from Kaggle. 
 https://www.kaggle.com/joniarroba/noshowappointments/home
 
-This dataset is focused on the question of whether or not patients show up for their appointment and what factors were useful in predicting if patients would miss thier appointments. It contains basic demographic information on the patients as well as whether or not the patient received SMS notifications.
+This dataset is focused on the question of whether or not patients show up for their appointment and what factors were useful in predicting if patients would miss their appointments. It contains basic demographic information on the patients as well as whether or not the patient received SMS notifications.
 
 The dataset is managed for unifying names, removing wrong data, adding new features based on existing data. A few observations is also managed regarding age and no_show fields.There are many patients with appointments scheduled and no duplicated rows were found in this dataset.
 
